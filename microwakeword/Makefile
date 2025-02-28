@@ -1,8 +1,8 @@
 .PHONY: local run update
 
-VERSION := 1.2.1
-TAG := rhasspy/wyoming-snowboy
-PLATFORMS := linux/amd64,linux/arm64,linux/arm/v7
+VERSION := 1.0.0
+TAG := rhasspy/wyoming-microwakeword
+PLATFORMS := linux/amd64,linux/arm64
 HOST := 0.0.0.0
 PORT := 10400
 
